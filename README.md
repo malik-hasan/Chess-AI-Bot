@@ -1,2 +1,2 @@
 # chessMinMax
-A chess bot created using the min max algorithm
+A chess bot which uses the min max algorithm in Python
