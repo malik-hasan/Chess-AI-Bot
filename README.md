@@ -1,5 +1,5 @@
 # Chess-AI-Bot
-Created a high performing chess AI using the min-max algorithm in Python
+High performing chess AI using the min-max algorithm in Python
 
 - Designed and implemented a Min-max algorithm which predicts the next best chess move. 
 - Algorithm chooses move which maximizes own score and minimizes opponents score by analyzing possible future moves upto a given depth.
